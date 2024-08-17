@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2c3e50;
+    margin-bottom: 3rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    height: 60px;
+}
+.copyright{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.reaction{
+    position: absolute;
+    margin-top: 1.5rem;
+}
+
+
+
+
